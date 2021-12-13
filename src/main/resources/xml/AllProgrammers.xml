@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Programadores>
+  <programador>
+    <id>070f4608-0af7-4920-8e22-4ee3759517b9</id>
+    <nombre>Jefazo2</nombre>
+    <fecha_Alta>2004-04-04</fecha_Alta>
+    <departamento>Departamento(id=e167f3d0-d333-4276-801d-50cfd29179e4, nombre=Desarrollo Web, idJefeDepartamento=070f4608-0af7-4920-8e22-4ee3759517b9, presupuesto=450001.0, presupuestoAnual=375000.0)</departamento>
+    <proyectos>[]</proyectos>
+    <sueldo>3500.0</sueldo>
+  </programador>
+  <programador>
+    <id>503e1433-1f98-449c-b602-72ffde821e62</id>
+    <nombre>Javi</nombre>
+    <fecha_Alta>2003-03-03</fecha_Alta>
+    <departamento>Departamento(id=e167f3d0-d333-4276-801d-50cfd29179e4, nombre=Desarrollo Web, idJefeDepartamento=070f4608-0af7-4920-8e22-4ee3759517b9, presupuesto=450001.0, presupuestoAnual=375000.0)</departamento>
+    <proyectos>[]</proyectos>
+    <sueldo>3000.0</sueldo>
+  </programador>
+  <programador>
+    <id>53ece7ae-3ed0-49c0-b50d-0db04f50d367</id>
+    <nombre>Jefazo1</nombre>
+    <fecha_Alta>2004-04-04</fecha_Alta>
+    <departamento>Departamento(id=5318aec6-e474-4478-8882-0495657e4218, nombre=Finanzas, idJefeDepartamento=53ece7ae-3ed0-49c0-b50d-0db04f50d367, presupuesto=250001.0, presupuestoAnual=145000.0)</departamento>
+    <proyectos>[]</proyectos>
+    <sueldo>3500.0</sueldo>
+  </programador>
+  <programador>
+    <id>638ab226-b150-4e48-90fa-7190b9f47da1</id>
+    <nombre>Andrea</nombre>
+    <fecha_Alta>2002-02-02</fecha_Alta>
+    <departamento>Departamento(id=7c0ea8ff-5da2-4991-8495-74814fad9634, nombre=Recursos humanos, idJefeDepartamento=be30c85d-324c-4c79-bad8-96f220fd1355, presupuesto=125000.0, presupuestoAnual=75000.0)</departamento>
+    <proyectos>[]</proyectos>
+    <sueldo>2500.0</sueldo>
+  </programador>
+  <programador>
+    <id>7f784746-5819-8f4d-ace7-978bcd3a9be1</id>
+    <nombre>Currito4</nombre>
+    <fecha_Alta>2004-04-04</fecha_Alta>
+    <departamento>Departamento(id=77e07771-35dc-4052-8d15-6f4622a7251f, nombre=Aplicaciones Moviles, idJefeDepartamento=db53e2ff-6ab3-4830-ba3e-5ccd09d5650e, presupuesto=500500.0, presupuestoAnual=425000.0)</departamento>
+    <proyectos>[Proyecto(idProyecto=50f4f6e5-f543-4d8d-a6bb-f7d1320f79a8, nombre=App EMT, idjefeProyecto=af5ee0c4-eff0-40f0-9eff-e588a51504d7, presupuesto=84000.0, fechaInicio=2021-10-02, fechaFin=null), Proyecto(idProyecto=e5a62f7a-5fe1-45a8-a389-d07411ae76b8, nombre=Organización datos DB, idjefeProyecto=af5ee0c4-eff0-40f0-9eff-e588a51504d7, presupuesto=86000.0, fechaInicio=2021-10-02, fechaFin=null)]</proyectos>
+    <sueldo>1000.0</sueldo>
+  </programador>
+  <programador>
+    <id>7f784746-5819-b543-ace7-978bcd3a9be1</id>
+    <nombre>Currito2</nombre>
+    <fecha_Alta>2004-04-04</fecha_Alta>
+    <departamento>Departamento(id=e167f3d0-d333-4276-801d-50cfd29179e4, nombre=Desarrollo Web, idJefeDepartamento=070f4608-0af7-4920-8e22-4ee3759517b9, presupuesto=450001.0, presupuestoAnual=375000.0)</departamento>
+    <proyectos>[Proyecto(idProyecto=327f9d8b-e42b-4998-8522-b77282c39ddd, nombre=Web Santander, idjefeProyecto=503e1433-1f98-449c-b602-72ffde821e62, presupuesto=125000.0, fechaInicio=2021-10-02, fechaFin=2021-11-01), Proyecto(idProyecto=98452ba4-3442-49a1-b204-d09b97972706, nombre=Reestructuracion Google, idjefeProyecto=503e1433-1f98-449c-b602-72ffde821e62, presupuesto=120000.0, fechaInicio=2021-10-02, fechaFin=null)]</proyectos>
+    <sueldo>1000.0</sueldo>
+  </programador>
+  <programador>
+    <id>7f784746-5819-b5e2-ace7-978bcd3a9be1</id>
+    <nombre>Currito1</nombre>
+    <fecha_Alta>2004-04-04</fecha_Alta>
+    <departamento>Departamento(id=5318aec6-e474-4478-8882-0495657e4218, nombre=Finanzas, idJefeDepartamento=53ece7ae-3ed0-49c0-b50d-0db04f50d367, presupuesto=250001.0, presupuestoAnual=145000.0)</departamento>
+    <proyectos>[Proyecto(idProyecto=2ce6a8fb-d9cc-4c5e-94a7-f5739edaf1e6, nombre=Presupuestos 2022, idjefeProyecto=7f784746-5819-gr43-ace7-978bcd3a9be1, presupuesto=31000.0, fechaInicio=2021-11-01, fechaFin=null), Proyecto(idProyecto=6374ad58-ac34-4331-8ff1-a33f2f047107, nombre=Oportunidades nicho, idjefeProyecto=7f784746-5819-gr43-ace7-978bcd3a9be1, presupuesto=27000.0, fechaInicio=2021-09-02, fechaFin=null)]</proyectos>
+    <sueldo>1000.0</sueldo>
+  </programador>
+  <programador>
+    <id>7f784746-5819-b7tf-ace7-978bcd3a9be1</id>
+    <nombre>Currito3</nombre>
+    <fecha_Alta>2004-04-04</fecha_Alta>
+    <departamento>Departamento(id=7c0ea8ff-5da2-4991-8495-74814fad9634, nombre=Recursos humanos, idJefeDepartamento=be30c85d-324c-4c79-bad8-96f220fd1355, presupuesto=125000.0, presupuestoAnual=75000.0)</departamento>
+    <proyectos>[Proyecto(idProyecto=794b8cb2-3093-416d-87db-4d09ca5e5a68, nombre=Jornadas de acogida de nuevos trabajadores, idjefeProyecto=638ab226-b150-4e48-90fa-7190b9f47da1, presupuesto=38000.0, fechaInicio=2021-10-02, fechaFin=2020-10-01), Proyecto(idProyecto=80121180-9b3f-46b9-9e78-012dfe455a78, nombre=Reestructuración de personal, idjefeProyecto=638ab226-b150-4e48-90fa-7190b9f47da1, presupuesto=37000.0, fechaInicio=2021-10-02, fechaFin=2020-10-01)]</proyectos>
+    <sueldo>1000.0</sueldo>
+  </programador>
+  <programador>
+    <id>7f784746-5819-gr43-ace7-978bcd3a9be1</id>
+    <nombre>Dani</nombre>
+    <fecha_Alta>2004-04-04</fecha_Alta>
+    <departamento>Departamento(id=5318aec6-e474-4478-8882-0495657e4218, nombre=Finanzas, idJefeDepartamento=53ece7ae-3ed0-49c0-b50d-0db04f50d367, presupuesto=250001.0, presupuestoAnual=145000.0)</departamento>
+    <proyectos>[]</proyectos>
+    <sueldo>1750.0</sueldo>
+  </programador>
+  <programador>
+    <id>af5ee0c4-eff0-40f0-9eff-e588a51504d7</id>
+    <nombre>Mario</nombre>
+    <fecha_Alta>2001-01-01</fecha_Alta>
+    <departamento>Departamento(id=77e07771-35dc-4052-8d15-6f4622a7251f, nombre=Aplicaciones Moviles, idJefeDepartamento=db53e2ff-6ab3-4830-ba3e-5ccd09d5650e, presupuesto=500500.0, presupuestoAnual=425000.0)</departamento>
+    <proyectos>[]</proyectos>
+    <sueldo>2500.0</sueldo>
+  </programador>
+  <programador>
+    <id>be30c85d-324c-4c79-bad8-96f220fd1355</id>
+    <nombre>Jefazo3</nombre>
+    <fecha_Alta>2004-04-04</fecha_Alta>
+    <departamento>Departamento(id=7c0ea8ff-5da2-4991-8495-74814fad9634, nombre=Recursos humanos, idJefeDepartamento=be30c85d-324c-4c79-bad8-96f220fd1355, presupuesto=125000.0, presupuestoAnual=75000.0)</departamento>
+    <proyectos>[]</proyectos>
+    <sueldo>3500.0</sueldo>
+  </programador>
+  <programador>
+    <id>db53e2ff-6ab3-4830-ba3e-5ccd09d5650e</id>
+    <nombre>Jefazo4</nombre>
+    <fecha_Alta>2004-04-04</fecha_Alta>
+    <departamento>Departamento(id=77e07771-35dc-4052-8d15-6f4622a7251f, nombre=Aplicaciones Moviles, idJefeDepartamento=db53e2ff-6ab3-4830-ba3e-5ccd09d5650e, presupuesto=500500.0, presupuestoAnual=425000.0)</departamento>
+    <proyectos>[]</proyectos>
+    <sueldo>3500.0</sueldo>
+  </programador>
+</Programadores>
