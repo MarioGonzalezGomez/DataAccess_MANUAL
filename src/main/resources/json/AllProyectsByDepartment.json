@@ -1,0 +1,48 @@
+[
+  {
+    "idProyecto": "0e04d847-444d-4d39-9f0a-024a7191c193",
+    "nombre": "Declaración de la renta",
+    "idjefeProyecto": "7f784746-5819-gr43-ace7-978bcd3a9be1",
+    "presupuesto": 29000.0,
+    "fechaInicio": "oct 1, 2020",
+    "fechaFin": "oct 1, 2020"
+  },
+  {
+    "idProyecto": "1",
+    "nombre": "PROYECTO_PRUEBA111",
+    "idjefeProyecto": "7f784746-5819-gr43-ace7-978bcd3a9be1",
+    "presupuesto": 5000.0,
+    "fechaInicio": "nov 25, 3905",
+    "fechaFin": "nov 25, 3906"
+  },
+  {
+    "idProyecto": "3b923a39-9f94-4978-b415-17e3bbac617d",
+    "nombre": "Estudio de mercado",
+    "idjefeProyecto": "7f784746-5819-gr43-ace7-978bcd3a9be1",
+    "presupuesto": 28000.0,
+    "fechaInicio": "ago 1, 2021",
+    "fechaFin": "nov 1, 2021"
+  },
+  {
+    "idProyecto": "2ce6a8fb-d9cc-4c5e-94a7-f5739edaf1e6",
+    "nombre": "Presupuestos 2022",
+    "idjefeProyecto": "7f784746-5819-gr43-ace7-978bcd3a9be1",
+    "presupuesto": 31000.0,
+    "fechaInicio": "nov 1, 2021"
+  },
+  {
+    "idProyecto": "45d64a82-7ebf-40ab-8278-fa3c3813c5ed",
+    "nombre": "Balance económico",
+    "idjefeProyecto": "7f784746-5819-gr43-ace7-978bcd3a9be1",
+    "presupuesto": 30000.0,
+    "fechaInicio": "oct 1, 2019",
+    "fechaFin": "nov 1, 2021"
+  },
+  {
+    "idProyecto": "6374ad58-ac34-4331-8ff1-a33f2f047107",
+    "nombre": "Oportunidades nicho",
+    "idjefeProyecto": "7f784746-5819-gr43-ace7-978bcd3a9be1",
+    "presupuesto": 27000.0,
+    "fechaInicio": "sept 2, 2021"
+  }
+]
